@@ -1,7 +1,7 @@
 
 Hello World Image
 
-![HELLOWORLD] (myimage.png)
+![HELLOWORLD] (https://github.com/sindhusenthil/embsys310/blob/main/Assignment1/myimage.png)
 
 
 
