@@ -1,4 +1,4 @@
-// #1c. Locals window after Swapping..
+Locals window after Swapping..
 
-![This is an image](/Pictures/1cLocalsWindowAfterSwapping.png)
+![This is an image](Pictures/1cLocalsWindowAfterSwapping.png)
 
