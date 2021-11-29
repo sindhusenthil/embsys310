@@ -1,5 +1,5 @@
 // Tera Term Window after division 
 
-![Tera Term Window](divAsmTeraTerm)
+![Tera Term Window](/Pictures/divAsmTeraTerm.png)
 
 
