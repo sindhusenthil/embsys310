@@ -1,0 +1,5 @@
+2)
+a. ROM space used - 484 bytes
+b. RAM space used - 8196 bytes 
+c. main.o is using the most amount of ROM
+d. Linker is using the most amount of RAM
